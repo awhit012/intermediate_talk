@@ -21,7 +21,7 @@
 
 ## Recommended Reading
 
-[The You Don't Know JavaScript Series by Kyle Simpson[(https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
+[The You Don't Know JavaScript Series by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
 ## JS Functions
 

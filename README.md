@@ -6,6 +6,7 @@
 | :--- |
 | Learn the Functional Fundamentals of Javascript |
 | Learn the Object Oriented aspects of Javascript |
+| Learn how to use JavaScript on the back end with Node |
 | Learn basic design patterns and testing with Javascript |
 
 ## Tentative Agenda
@@ -20,12 +21,7 @@
 
 ## Recommended Reading
 
-* **JavaScript and JQuery: Interactive Front-End Web Development**
-* **JavaScript Ninja**
-
-## Intermediate JS?
-
-* [Angelina Fabbro: JS Masterclass](http://afabbro.github.io/jsconf2013/)
+[The You Don't Know JavaScript Series by Kyle Simpson[(https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
 ## JS Functions
 
